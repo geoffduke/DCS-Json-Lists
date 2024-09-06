@@ -1,0 +1,34 @@
+
+    "weapon_data": {
+        "categories": {
+            "0": "SHELL",
+            "1": "MISSILE",
+            "2": "ROCKET",
+            "3": "BOMB",
+            "4": "TORPEDO"
+        },
+        "guidance_types": {
+            "1": "INS",
+            "2": "IR",
+            "3": "RADAR_ACTIVE",
+            "4": "RADAR_SEMI_ACTIVE",
+            "5": "RADAR_PASSIVE",
+            "6": "TV",
+            "7": "LASER",
+            "8": "TELE"
+        },
+        "missile_categories": {
+            "1": "AAM",
+            "2": "SAM",
+            "3": "BM",
+            "4": "ANTI_SHIP",
+            "5": "CRUISE",
+            "6": "OTHER"
+        },
+        "warhead_types": {
+            "0": "AP",
+            "1": "HE",
+            "2": "SHAPED_CHARGE"
+        }
+    }
+}
