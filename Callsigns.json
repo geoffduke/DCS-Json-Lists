@@ -1,0 +1,122 @@
+{
+    "aircraft_callsigns": {
+        "General": {
+            "1": "Enfield",
+            "2": "Springfield",
+            "3": "Uzi",
+            "4": "Colt",
+            "5": "Dodge",
+            "6": "Ford",
+            "7": "Chevy",
+            "8": "Pontiac"
+        },
+        "AH-64": {
+            "9": "Army Air",
+            "10": "Apache",
+            "11": "Crow",
+            "12": "Sioux",
+            "13": "Gatling",
+            "14": "Gunslinger",
+            "15": "Hammerhead",
+            "16": "Bootleg",
+            "17": "Palehorse",
+            "18": "Carnivor",
+            "19": "Saber"
+        },
+        "A-10": {
+            "9": "Hawg",
+            "10": "Boar",
+            "11": "Pig",
+            "12": "Tusk"
+        },
+        "F-16": {
+            "9": "Viper",
+            "10": "Venom",
+            "11": "Lobo",
+            "12": "Cowboy",
+            "13": "Python",
+            "14": "Rattler",
+            "15": "Panther",
+            "16": "Wolf",
+            "17": "Weasel",
+            "18": "Wild",
+            "19": "Ninja",
+            "20": "Jedi"
+        },
+        "F-18": {
+            "9": "Hornet",
+            "10": "Squid",
+            "11": "Ragin",
+            "12": "Roman",
+            "13": "Sting",
+            "14": "Jury",
+            "15": "Joker",
+            "16": "Ram",
+            "17": "Hawk",
+            "18": "Devil",
+            "19": "Check",
+            "20": "Snake"
+        },
+        "F-15E": {
+            "9": "Dude",
+            "10": "Thud",
+            "11": "Gunny",
+            "12": "Trek",
+            "13": "Sniper",
+            "14": "Sled",
+            "15": "Best",
+            "16": "Jazz",
+            "17": "Rage",
+            "18": "Tahoe"
+        },
+        "B-1B": {
+            "9": "Bone",
+            "10": "Dark",
+            "11": "Vader"
+        },
+        "B-52": {
+            "9": "Buff",
+            "10": "Dump",
+            "11": "Kenworth"
+        },
+        "Transport": {
+            "9": "Heavy",
+            "10": "Trash",
+            "11": "Cargo",
+            "12": "Ascot"
+        },
+        "AWACS": {
+            "1": "Overlord",
+            "2": "Magic",
+            "3": "Wizard",
+            "4": "Focus",
+            "5": "Darkstar"
+        },
+        "Tanker": {
+            "1": "Texaco",
+            "2": "Arco",
+            "3": "Shell"
+        },
+        "JTAC": {
+            "1": "Axeman",
+            "2": "Darknight",
+            "3": "Warrior",
+            "4": "Pointer",
+            "5": "Eyeball",
+            "6": "Moonbeam",
+            "7": "Whiplash",
+            "8": "Finger",
+            "9": "Pinpoint",
+            "10": "Ferret",
+            "11": "Shaba",
+            "12": "Playboy",
+            "13": "Hammer",
+            "14": "Jaguar",
+            "15": "Deathstar",
+            "16": "Anvil",
+            "17": "Firefly",
+            "18": "Mantis",
+            "19": "Badger"
+        }
+    }
+}
